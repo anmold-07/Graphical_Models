@@ -2,15 +2,17 @@ This repository contains implementations for inference and learning in probabili
 
 ### Directed Graphical Models (Bayesian Networks)
 - **Belief Propagation Algorithm**
+- **Variable Elimination**
 - **Probabilistic Approximation Algorithms**:
   - Likelihood Weighted Sampling
   - Monte Carlo Markov Chain (MCMC)
 - **Deterministic Approximation Algorithms**:
   - Variational Mean-field Posterior Probability Inference
+- (Learning) **Maximum Likelihood Estimation (MLE)**
 
 ### Undirected Graphical Models (Markov and Conditional Random Fields)
 - **Belief Propagation**:
   - Sum-Product Algorithm
   - Max-Sum Algorithm
-- **Optimization Technique**:
+- (Learning) **Optimization Technique**:
   - Stochastic Gradient Descent
